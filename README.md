@@ -24,7 +24,7 @@ I’m a Data Science student passionate about turning data into meaningful insig
 ---
 [![](https://visitcount.itsvg.in/api?id=Tanishkapundhir78&icon=6&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **Tanishkapundhir78/Tanishkapundhir78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
